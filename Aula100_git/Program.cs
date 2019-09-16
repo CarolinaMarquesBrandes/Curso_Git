@@ -7,6 +7,9 @@ namespace Aula100_git
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.ReadLine();
+
+            Console.WriteLine("Bom dia");
         }
     }
 }
