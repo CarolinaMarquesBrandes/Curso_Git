@@ -12,6 +12,7 @@ namespace Aula100_git
             
             Console.WriteLine("como voce esta");
             Console.WriteLine("tenha um bom dia ");
+            Console.WriteLine("---------------------------------------" );
 
         }
     }
